@@ -7,7 +7,7 @@
 
 ## ✨ 游戏内容分类
 
-📂 [**galgameabout**](../galgameabout)  
+📂 [**galgameabout**](../game/galgameabout)  
 > 📖 有关 Galgame 的介绍、感想和推荐游戏  
 > 🕊️ 夏天、恋爱、纸片人日常的小天地~
 
