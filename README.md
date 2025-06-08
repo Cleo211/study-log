@@ -20,8 +20,8 @@
 
 | 类型     | 链接 |
 |----------|------|
-| 📆 日常日志 | [diary](./highschool daily/diary) |
-| 🎮 游戏记录 | [game](./highschool daily/game) |
+| 📆 日常日志 | [diary](./highschooldaily/diary) |
+| 🎮 游戏记录 | [game](./highschooldaily/game) |
 
 ---
 
