@@ -20,7 +20,7 @@
 
 | 类型     | 链接 |
 |----------|------|
-| 📆 日常日志 | [daily](./highschool-daily/daily) |
+| 📆 日常日志 | [draiy](./highschool-daily/draiy) |
 | 🎮 游戏记录 | [game](./highschool-daily/game) |
 
 ---
